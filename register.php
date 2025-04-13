@@ -266,7 +266,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <body>
 
 <div class="container">
-    <img src='/White-Hall/images/logo.jpeg' alt='White Hall' class='logo'>
+    <img src="https://b20a966ebd5972ee8787ba1fbdbfa6b7.serveo.net/White-Hall/images/logos.jpeg" alt="Logo White Hall" class="logo">
     <h2>Inscription</h2>
     <form action="register.php" method="POST">
         <input type="text" name="nom" placeholder="Nom et prénom" required>

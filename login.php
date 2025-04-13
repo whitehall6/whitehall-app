@@ -170,7 +170,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <body>
     <div class="container">
         <!-- Affichage du logo -->
-        <img src="http://localhost/White-Hall/images/logo.jpeg" alt="Logo White Hall" class="logo">
+        <img src="https://b20a966ebd5972ee8787ba1fbdbfa6b7.serveo.net/White-Hall/images/logos.jpeg" alt="Logo White Hall" class="logo">
 
         <h2>Connexion</h2>
         <?php if ($_SERVER["REQUEST_METHOD"] == "POST" && !empty($message)) { echo $message; } ?>

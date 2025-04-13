@@ -84,7 +84,7 @@ if (!isset($_SESSION['user_id'])) {
 <a href="dashboard.php" class="btn-retour">← Retour à l'Acceuil</a>
 
 <div class="container">
-    <img src="/White-Hall/images/logo.jpeg" alt="White Hall" class="logo">
+    <img src="https://b20a966ebd5972ee8787ba1fbdbfa6b7.serveo.net/White-Hall/images/logos.jpeg" alt="Logo White Hall" class="logo">
     <h1>Support Client</h1>
     <p>Besoin d'aide ? Contactez-nous via :</p>
     

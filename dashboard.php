@@ -110,7 +110,7 @@ while ($row = $result->fetch_assoc()) {
 <body>
 
 <div class="header">
-    <img src="images/logo.jpeg" alt="Logo White Hall">
+    <img src="https://b20a966ebd5972ee8787ba1fbdbfa6b7.serveo.net/White-Hall/images/logos.jpeg" alt="Logo White Hall" class="logo">
     <span>White Hall</span>
 </div>
 
